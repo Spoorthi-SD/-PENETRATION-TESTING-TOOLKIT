@@ -73,5 +73,6 @@ Implementing Vulnerability Scanning: I faced challenges when incorporating Nmap 
 
 Handling Errors and Exceptions: I needed to implement robust error handling to manage any issues or exceptions that arose during testing.
 
-#OUTPUT
+# OUTPUT
 
+![Image](https://github.com/user-attachments/assets/329687ed-290e-4d67-88b5-dea5d16d3de5)
